@@ -13,31 +13,38 @@ Monthly summary of total spending
 Persistent storage using CSV file
 
 🧱 Project Structure
-Code
+```
 ExpenseTracker/
 ├── src/
 │   ├── Expense.java
 │   ├── ExpenseManager.java
 │   └── ExpenseTracker.java
 └── expenses.csv
+```
+
 ⚙️ How to Run
 Compile the project:
-
+```
 bash
 javac ExpenseTracker.java
-Run commands:
+```
 
+Run commands:
+```
 bash
 java ExpenseTracker add --description "Lunch" --amount 250
 java ExpenseTracker list
 java ExpenseTracker summary --month 7
 java ExpenseTracker delete --id 2
+```
 🧠 Example Output
-Code
+```
 ID   Date         Description   Amount
 1    2026-07-06   Lunch         $250.00
 2    2026-07-06   Dinner        $180.00
 Total expenses: $430.00
+```
+
 🧩 Future Enhancements
 Expense categories
 
