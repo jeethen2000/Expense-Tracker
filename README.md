@@ -1,6 +1,9 @@
 📘 Expense Tracker CLI (Java)
 A simple command‑line expense tracker built in Java, designed to help users record, list, and summarize daily expenses efficiently using a CSV file for storage.
 
+## 🔗 Project URL
+[Expense Tracker CLI](https://github.com/jeethen2000/Expense-Tracker)
+
 🚀 Features
 Add expenses with description and amount
 
