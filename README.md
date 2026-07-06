@@ -2,7 +2,7 @@
 A simple command‑line expense tracker built in Java, designed to help users record, list, and summarize daily expenses efficiently using a CSV file for storage.
 
 ## 🔗 Project URL
-[Expense Tracker CLI](https://roadmap.sh/projects/expense-tracker)
+https://roadmap.sh/projects/expense-tracker
 
 🚀 Features
 Add expenses with description and amount
