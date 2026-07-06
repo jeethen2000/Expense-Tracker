@@ -55,11 +55,12 @@ JSON storage
 Export to Excel
 
 🧰 Technologies Used
-Component	Description
-Java 17+	Core language
-CSV File I/O	Persistent data storage
-LocalDate API	Date handling
-Command‑line arguments	User input
+| ⚙️ Component          | 🧩 Description            |
+|-----------------------|---------------------------|
+| **Java 17+**          | Core language             |
+| **CSV File I/O**      | Persistent data storage   |
+| **LocalDate API**     | Date handling             |
+| **Command-line args** | User input management     |
 
 
 🧑‍💻 Author
